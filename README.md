@@ -1,5 +1,6 @@
 # Abandoned-Object-Detection
-Project on Abandoned Object Detection using Python
+Project on Abandoned Object Detection using Python.
+
 This Python project focuses on detecting abandoned objects in public places using computer vision and deep learning. It involves developing a model that can analyze video feeds from CCTV cameras or other surveillance systems to identify objects left unattended for a certain duration. The project integrates OpenCV for video processing and TensorFlow or PyTorch for training a neural network model. Techniques like background subtraction, motion detection, and object tracking are employed to differentiate between stationary and moving objects. The goal is to improve security and prevent potential risks in crowded areas, such as airports, malls, or train stations.
 
 This Python project focuses on detecting abandoned objects in public spaces by leveraging the power of computer vision and deep learning technologies. The primary aim is to create a system that can analyze video footage from surveillance cameras, identify objects left unattended for a certain period, and issue alerts to prevent potential security threats. This project has practical applications in environments like airports, train stations, shopping malls, and other high-traffic areas where abandoned objects could pose risks.
